@@ -19,3 +19,24 @@ Detailed-oriented, Responsible with a get-it-done on-time, and high-quality prod
 - 💬 Ask me about application optimization, UX develpment, and applicstion architecture.
 - 📫 How to reach me: [Mail 📧](mailto:hazzazbinfaiz@gmail.com)
 
+## Stats🎯
+
+<div>
+    <img align=top src="https://github-readme-stats.vercel.app/api?username=HazzazBinFaiz&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true"/>
+    <img align=top src="http://github-readme-streak-stats.herokuapp.com?user=HazzazBinFaiz&theme=chartreuse-dark"/>
+<div>
+
+<details open>
+<summary>Contribution Graph</summary>
+
+[![Hazzaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=HazzazBinFaiz&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+  
+
+<details open>
+<summary>Trophies</summary>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=HazzazBinFaiz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</details>
