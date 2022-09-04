@@ -1,7 +1,6 @@
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Hazzaz+Bin+Faiz;Software+Engineer;Open-Source+Enthusiast;Senior+Software+Engineer" />
 </div>
-<div align="center">
 
 
 <h1 align="center">Hi, I am Hazzaz Bin Faiz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
