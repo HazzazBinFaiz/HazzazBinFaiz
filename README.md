@@ -1,3 +1,9 @@
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Hazzaz+Bin+Faiz;Software+Engineer;Open-Source+Enthusiast;Senior+Software+Engineer" />
+</div>
+<div align="center">
+
+
 <h1 align="center">Hi, I am Hazzaz Bin Faiz <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 I am a Back-End Engineer with industry experience in building flexible, secure, optimized websites and web applications. Specialist in laravel Framework. Satisfactory background working with React, NextJs, WebSocket, WebRTC, PWA, and Embedded system integration on multiple projects.
@@ -35,3 +41,15 @@ Detailed-oriented, Responsible with a get-it-done on-time, and high-quality prod
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=HazzazBinFaiz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
+### Latest Learning Badges 👨‍💻
+
+<a href="https://www.credly.com/badges/cd106ace-500b-4311-a66d-b2316e5f8f6b">
+    <img src="https://images.credly.com/size/340x340/images/5bf37709-4b69-4cdc-9edc-af7b3370d427/image.png" alt="AWS Educate Getting Started with Storage" width="150"/>
+</a>
+<a href="https://www.credly.com/badges/d14d7ae0-0c64-4bb2-8e89-96b9dc14c7ba">
+    <img src="https://images.credly.com/size/340x340/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Educate Getting Started with Storage" width="150"/>
+</a>
+
+
+
+
