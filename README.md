@@ -48,6 +48,10 @@ Detailed-oriented, Responsible with a get-it-done on-time, and high-quality prod
 <a href="https://www.credly.com/badges/d14d7ae0-0c64-4bb2-8e89-96b9dc14c7ba">
     <img src="https://images.credly.com/size/340x340/images/9358115e-ead7-47c2-91e2-165b6a650a1b/image.png" alt="AWS Educate Getting Started with Storage" width="150"/>
 </a>
+<a href="https://www.credly.com/earner/earned/badge/c233065b-a1f1-4063-8753-9536b4d56f47">
+    <img src="https://images.credly.com/size/340x340/images/8d67bbf4-128b-4141-b5f1-1bc61bbfbaa6/image.png" alt="AWS Educate Getting Started with Storage" width="150"/>
+</a>
+
 
 
 
