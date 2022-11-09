@@ -30,15 +30,6 @@ Detailed-oriented, Responsible with a get-it-done on-time, and high-quality prod
     <img align=top src="https://github-readme-stats.vercel.app/api?username=HazzazBinFaiz&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true"/>
     <img align=top src="http://github-readme-streak-stats.herokuapp.com?user=HazzazBinFaiz&theme=chartreuse-dark"/>
 <div>
-
-### Contribution Graph 💹
-
-[![Hazzaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=HazzazBinFaiz&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-  
-### Trophies 🏆
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=HazzazBinFaiz&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### Latest Learning Badges 👨‍💻
 
