@@ -5,3 +5,5 @@ I am a software Engineer with industry experience in building flexible, secure, 
 I have experience in designing (system) and developing web application andd services. Iv'e also work on server administration, security enhancement, application optimization and integration.
 
 Reach me: [Mail 📧](mailto:hazzazbinfaiz@gmail.com)
+
+Tip me 😃 : [0x5197B3Ae7217e5C1d1C7a93EfbB1018293D17F81](https://etherscan.io/address/0x5197B3Ae7217e5C1d1C7a93EfbB1018293D17F81)
